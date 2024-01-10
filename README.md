@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<img src="https://giphy.com/embed/ozNvZioZuhQZ9YmxvX/video" width="40px"/>
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/ozNvZioZuhQZ9YmxvX/video" width="480"></iframe></div>
 
 # Vue 2 + vuetify
 multifunctional
